@@ -55,4 +55,28 @@ Gunakan struktur folder dan penamaan file di bawah ini untuk mengunggah aset med
   - `setup_1.jpg`
   - `setup_2.jpg`
   - `setup_3.jpg`
-  - `image_1.jpg`
+
+
+OBS Live Streaming Operations (assets/media/03_obs_livestream/):
+
+Video Short (1 Video, Rasio 9:16 Vertikal Autoplay):
+
+stream_1.mp4 & stream_1_poster.jpg
+
+Galeri Foto:
+
+setup_1.jpg, setup_2.jpg, setup_3.jpg, image_1.jpg
+
+Humility Apparel Brand Development (assets/media/07_humility_apparel/):
+
+Video Shorts (4 Video, Rasio 9:16 Vertikal Carousel Slider):
+
+humility_short_1.mp4–humility_short_4.mp4 & poster terikat.
+
+Galeri Foto (3 Foto di Bagian Bawah):
+
+image_1.jpg
+
+image_2.jpg
+
+image_3.jpg
