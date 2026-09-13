@@ -1078,3 +1078,34 @@ footer {
 .project-carousel-viewport {
   margin: 0 auto;
 }
+
+.site-footer {
+  width: 100%;
+  padding: 30px 20px;
+  background-color: #0a0a0a; /* Menyesuaikan background gelap portofolio */
+  border-top: 1px solid rgba(255, 255, 255, 0.1); /* Garis pemisah tipis yang elegan */
+  text-align: center;
+  margin-top: 60px;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-credit {
+  font-size: 13px;
+  color: #ffffff;
+  margin-bottom: 6px;
+  letter-spacing: 0.3px;
+}
+
+.footer-credit strong {
+  color: #00ff66; /* Memberikan aksen warna hijau terang khas elemen "Let's make it move" di websitemu */
+}
+
+.footer-subtext {
+  font-size: 11px;
+  color: #888888;
+  margin: 0;
+}
